@@ -4,9 +4,9 @@
 }
 
 .ms_top-header{
-  height: 90px;
+  height: 60px;
 }
 
-.jumbotron{
-  padding-top: 0;
+.ms_button-header{
+  height: 210px;
 }
