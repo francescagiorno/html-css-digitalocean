@@ -7,6 +7,16 @@
   height: 60px;
 }
 
+.logo{
+  width: 120px;
+  height: 60px;
+  margin-left: 30px;
+
+}
 .ms_button-header{
   height: 210px;
+}
+
+.bg{
+  background-color: pink;
 }
