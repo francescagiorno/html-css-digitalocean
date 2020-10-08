@@ -27,3 +27,20 @@
 .cent{
   vertical-align: middle;
 }
+
+.h-cont{
+  height: 500px;
+
+}
+.ms_list .ms_lista{
+  display: block;
+  height: 30px;
+  border-left: 1px solid grey;
+  line-height: 50px;
+  padding-left: 40px;
+  cursor: pointer;
+
+}
+.pl{
+  padding-left: 50px;
+}
