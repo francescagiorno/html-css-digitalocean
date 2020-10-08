@@ -34,13 +34,14 @@
 }
 .ms_list .ms_lista{
   display: block;
-  height: 30px;
+  height: 90px;
   border-left: 1px solid grey;
   line-height: 50px;
   padding-left: 40px;
   cursor: pointer;
 
 }
-.pl{
-  padding-left: 50px;
+.ms_cont{
+  height: 500px;
+  border:1px solid black;
 }
